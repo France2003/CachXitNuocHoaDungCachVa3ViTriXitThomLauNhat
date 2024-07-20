@@ -41,7 +41,7 @@ const PageHome = () => {
                         <li>• Bước 1: Tắm rửa sạch sẽ, hương thơm sẽ bám lâu hơn trên da sạch.</li>
                         <li>• Bước 2: Lựa chọn nước hoa và vị trí xịt phù hợp.</li>
                         <li>• Bước 3: Giữ khoảng cách phù hợp.</li>
-                        <li>• Bước 4: Chờ đợi <a className='underline text-blue-400' href="https://chanhtuoi.com/nuoc-hoa-kho-p3830.html">nước hoa khô</a> tự nhiên. </li>
+                        <li>• Bước 4: Chờ đợi <a href="https://chanhtuoi.com/nuoc-hoa-kho-p3830.html">nước hoa khô</a> tự nhiên. </li>
                         <li>• Bước 5: Không chà xát và xịt thêm nếu cần thiết.</li>
                     </div>
                 </ul>
