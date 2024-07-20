@@ -73,7 +73,7 @@ const PageHome = () => {
                         <li><b>Shopee:</b>   <a style={{ textDecorationLine: 'underline', fontSize: 15 }} href="https://shopee.vn/codedeco.art" target='_blank'>𝐂𝐎𝐃𝐄𝐃𝐄𝐂𝐎®️</a></li>
                     </ul>
                 </div>
-                <div className='flex justify-center gap-9 my-5'>
+                <div className='flex gap-9 my-5'>
                     <p className='bg-black text-white p-3 w-[250px] rounded-md'><b>Hotline: 0967.077.882</b> </p>
                     <p className='bg-black text-white p-3 w-[250px] rounded-md'><b>CSKH : 0383.226.567 </b> </p>
                 </div>

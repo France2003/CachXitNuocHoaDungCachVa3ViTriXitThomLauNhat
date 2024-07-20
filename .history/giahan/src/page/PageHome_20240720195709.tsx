@@ -65,18 +65,7 @@ const PageHome = () => {
                         <img className="w-[450px] h-[450px]" src={imgVI} alt="" />
                     </div>
                 </ul>
-                <div>
-                    <p className='text-[20px] font-[600]'>CODEDECO VIETNAM</p>
-                    <ul className='list-disc mx-5'>
-                        <li><b>Facebook:</b> <a style={{ textDecorationLine: 'underline', fontSize: 15 }} href="https://www.facebook.com/profile.php?id=61555159087139" target='_blank'>CODEDECO - SCENTS CODE FOR YOUR STYLE</a></li>
-                        <li><b>Instagram:</b> <a style={{ textDecorationLine: 'underline', fontSize: 15 }} href="https://www.instagram.com/codedeco_art/" target='_blank'>𝐂𝐎𝐃𝐄𝐃𝐄𝐂𝐎®️</a></li>
-                        <li><b>Shopee:</b>   <a style={{ textDecorationLine: 'underline', fontSize: 15 }} href="https://shopee.vn/codedeco.art" target='_blank'>𝐂𝐎𝐃𝐄𝐃𝐄𝐂𝐎®️</a></li>
-                    </ul>
-                </div>
-                <div className='flex justify-center gap-9 my-5'>
-                    <p className='bg-black text-white p-3 w-[250px] rounded-md'><b>Hotline: 0967.077.882</b> </p>
-                    <p className='bg-black text-white p-3 w-[250px] rounded-md'><b>CSKH : 0383.226.567 </b> </p>
-                </div>
+                <p><b>Facebook:</b> <a style={{textDecorationLine:'underline',fontSize:17}} href="https://web.facebook.com/profile.php?id=61555159087139&_rdc=1&_rdr">Codedeco </a></p>
             </div>
         </div>
     )
